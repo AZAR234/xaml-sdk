@@ -76,6 +76,5 @@
             </telerik:RadGridView.RowDetailsTemplate>
         </telerik:RadGridView>
         <telerik:RadDataPager x:Name="pager" Source="{Binding DataView, ElementName=coreDataSource}" PageSize="5"  Grid.Row="1" />
-        <!--<Button Content="Save" Grid.Row="2" Click="Button_Click" />-->
     </Grid>
 </Window>

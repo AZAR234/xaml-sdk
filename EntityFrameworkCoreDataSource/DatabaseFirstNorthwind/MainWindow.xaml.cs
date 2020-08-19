@@ -23,6 +23,8 @@ namespace DatabaseFirstNorthwind
         public MainWindow()
         {
             InitializeComponent();
+
+              
         }
     }
 }
